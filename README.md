@@ -4,6 +4,7 @@ Fixing broken funtionality of Apple's Bootcamp Driver on Windows 8-10 for older 
 PS:Portable Release is more stable and once you run and click Add to Boot you can delete the program.
 
 Usage:
+Install Apple Boot Camp Driver with windows 7 compatibility mode.
 After run as administrator click Add to Boot.
 
 Currently known bugs: It wont launch if you are on battery not connected to AC charger. Thats because windows task scheduler cmd interface doesnt support it.
