@@ -104,6 +104,7 @@ def remove_boot():
 def add_boot():
     try:
         sp.check_output(["schtasks","/create","/sc","ONLOGON","/tn","BOOTCAMP_MANAGER","/tr","C:/BootcampManager/BootcampManager.exe","/rl","HIGHEST"],creationflags=CREATE_NO_WINDOW).decode()
+        sp.check_output(["schtasks","/create","/sc","ONSTART","/tn","BOOTCAMP","/tr","C:/Program Files/Boot Camp/Bootcamp.exe","/rl","HIGHEST"],creationflags=CREATE_NO_WINDOW).decode()
         t.configure(text="Successfully added to boot.",bg="green")
         mb.askquestion(title="Info", message="Restarting in 10 seconds.")
         os.system(r'shutdown -r -t 10')
@@ -193,7 +194,6 @@ if nya==rlko:
     window.mainloop()
 if __name__ == '__main__':
     main()
-#196
 #197
 #198
 #199
