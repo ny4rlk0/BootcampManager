@@ -25,7 +25,7 @@ def create_menu_item(menu, label, func):
     menu.Append(item)
     return item
 class TaskBarIcon(wx.adv.TaskBarIcon):
-    def __init__(self, frame):
+    def __init__(self,frame):
         self.frame = frame
         super(TaskBarIcon, self).__init__()
         self.set_icon(TRAY_ICON)
@@ -38,10 +38,8 @@ class TaskBarIcon(wx.adv.TaskBarIcon):
         return menu
     def set_icon(self, path):
         icon = wx.Icon(path)
-        self.SetIcon(icon, TRAY_TOOLTIP)
-    def on_left_down(self, event):      
-        #self.frame.Show()
-        #os.execv(sys.argv[0], sys.argv)
+        self.SetIcon(icon)
+    def on_left_down(self, event):
         os.startfile(sys.argv[0])
         sys.exit()       
     def on_update(self, event):
@@ -195,6 +193,8 @@ if nya==rlko:
     window.mainloop()
 if __name__ == '__main__':
     main()
+#196
+#197
 #198
 #199
 #200 Yes it has to be 200.
