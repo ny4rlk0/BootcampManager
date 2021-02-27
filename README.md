@@ -15,7 +15,7 @@ Currently known bugs: It wont launch if you are on battery not connected to AC c
 
 2)Find BOOTCAMP_MANAGER_BOOT and BOOTCAMP_MANAGER_LOGIN and repeat this steps for both of them.
 
-3)Right click settings
+3)Right click properties
 
 4)Conditions
 
