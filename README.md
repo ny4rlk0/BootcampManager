@@ -11,7 +11,7 @@ Currently known bugs: It wont launch if you are on battery not connected to AC c
  
 1)You have to manually open Windows Task Scheduler
 
-2)Find BOOTCAMP_MANAGER
+2)Find BOOTCAMP_MANAGER_BOOT and BOOTCAMP_MANAGER_LOGIN and repeat this steps for both of them.
 
 3)Right click settings
 
