@@ -7,6 +7,8 @@ Usage:
 Install Apple Boot Camp Driver with windows 7 compatibility mode.
 After run as administrator click Add to Boot.
 
+(If you cant see your screen (Pitch Black) you can direct your phones flashlight to the screen to see temp before run this software.)
+
 Currently known bugs: It wont launch if you are on battery not connected to AC charger. Thats because windows task scheduler cmd interface doesnt support it.
  
 1)You have to manually open Windows Task Scheduler
