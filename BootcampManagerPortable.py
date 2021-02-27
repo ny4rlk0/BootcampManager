@@ -1,4 +1,3 @@
-#/bin/bash
 #Code by Nyarlko 25.2.2021 all brands belongs to their respective owners.
 #Main target of this software is Macbook Late 2006 but
 #any mac runs Windows should be able to run this software.
