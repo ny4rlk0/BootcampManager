@@ -193,6 +193,7 @@ if nya==rlko:
     window.mainloop()
 if __name__ == '__main__':
     main()
+#196
 #197
 #198
 #199
