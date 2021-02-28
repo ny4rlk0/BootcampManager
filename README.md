@@ -2,6 +2,7 @@
 Fixing broken funtionality of Apple's Bootcamp Driver on Windows 8-10 for older devices. (Tested on Macbook 2006 Late should have work any apple devices with Windows.) This broken functionality causes back light to not shine at all while Bootcamp is installed with Windows 7 compatibility since apple never released driver for it. This program is aimed to fix that. All brands belongs to their respective owners. I do not have any connection with apple. This is a custom fix use at your own risk. 
 
 PS:Portable Release is more stable and once you run and click Add to Boot you can delete the program.
+If portable version wont work try SimpleBootcampPatcher Version.
 
 Usage:
 Install Apple Boot Camp Driver with windows 7 compatibility mode.
