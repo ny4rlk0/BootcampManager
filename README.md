@@ -3,6 +3,7 @@ Fixing broken funtionality of Apple's Bootcamp Driver on Windows 8-10 for older 
 
 PS:Portable Release is more stable and once you run and click Add to Boot you can delete the program.
 If portable version wont work try SimpleBootcampPatcher Version.
+(If you install older macbook's ssd, bootcamp drivers and windows 8.1 it could do any office tasks web surfing without sweat.)
 
 Usage:
 Install Apple Boot Camp Driver with windows 7 compatibility mode.
