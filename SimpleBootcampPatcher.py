@@ -2,7 +2,6 @@
 import os,sys
 import tkinter as ui
 from tkinter import messagebox as mb
-import time
 CREATE_NO_WINDOW = 0x08000000
 DIR=f"\"C://Program Files//Boot Camp//Bootcamp.exe\""
 BB=f"\"BOOTCAMP_MANAGER_BOOT\""
