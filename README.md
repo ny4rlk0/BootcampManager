@@ -7,7 +7,8 @@ If portable version wont work try SimpleBootcampPatcher Version.
 
 Usage:
 Install Apple Boot Camp Driver with windows 7 compatibility mode.
-If you cannot install make sure os type is same as driver use x32 driver for x32 os and Open Command Prompt as Administrator
+If you cannot install make sure os type is same as driver use x32 driver for x32 os and vice versa. 
+Open Command Prompt as Administrator
 CD into Driver Directory where BootCamp.msi
 Type  "msiexec /i BootCamp.msi"
 After run as administrator click Add to Boot.
