@@ -51,7 +51,7 @@ def donate():
     donatee = ui.Text(newWindow)
     labelExample.pack()
     donatee.pack()
-    donatee.insert(ui.END,"BTC: 3NhGAPpkLas1pDdPp7tSeP5ba1gHapq7kb")
+    donatee.insert(ui.END,"BTC: REMOVED NO LONGER HAVE ACCESS THISS ACCOUNT!")
     donatee.configure(state='disabled')
 def remove_boot():
     try:
