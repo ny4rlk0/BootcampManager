@@ -90,7 +90,7 @@ def donate():
     donatee = ui.Text(newWindow)
     labelExample.pack()
     donatee.pack()
-    donatee.insert(ui.END,"REMOVED")
+    donatee.insert(ui.END,"REMOVED NO LONGER HAVE ACCESS THIS ACCOUNT!")
     donatee.configure(state='disabled')
 def remove_boot():
     try:
